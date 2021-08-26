@@ -1,4 +1,4 @@
 # jobis
-Gerardo Urdaneta
-johana martinez
 
+Johana Martinez
+Gerardo Urdaneta
